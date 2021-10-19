@@ -1,0 +1,7 @@
+# These patterns are project specific, for your development environment-specific
+# ignores such as .idea or .DS_Store use a local ~/.config/git/ignore file
+
+target/
+/.bsp
+.idea/
+
